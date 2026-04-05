@@ -26,7 +26,7 @@ A structured SQL-based data cleaning pipeline was implemented to transform the r
 
 The raw dataset used in this project is included for reference:
 
-**Raw Dataset:** [oil_gas_raw.xlsx](oil_gas_raw.xlsx)
+👉 [Download Dataset](oil_gas_raw.xlsx))
 
 This file contains the original uncleaned data with:
 - Inconsistent well IDs and names  
@@ -154,13 +154,8 @@ After cleaning:
 ## 📁 Project Structure
 
 Oil-Gas-Data-Cleaning/
-│
-├── data/
-│   └── oil_gas_raw.xlsx
-│
-├── sql/
-│   └── data_cleaning.sql
-│
+└── oil_gas_raw.xlsx
+└── data_cleaning.sql
 └── README.md  
 
 ---
