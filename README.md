@@ -71,6 +71,8 @@ A step-by-step SQL cleaning pipeline was applied to address these issues.
 
 ## 🔧 Data Cleaning Steps
 
+Access the full SQL data cleaning code here: [Download data_cleaning.sql](https://raw.githubusercontent.com/AdekunleOjo/oil-gas-operational-data-cleaning/main/Oil-Gas-Data-Cleaning/data_cleaning.sql)
+
 ### 🔹 1. Standardizing Well Identifiers
 
 - Extracted numeric components from inconsistent `Well_ID` values  
